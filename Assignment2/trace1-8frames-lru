@@ -1,0 +1,23 @@
+Page fault        0 
+writting          0 
+Page fault        1 
+reading           1 
+Page fault        2 
+reading           2 
+Page fault        3 
+reading           3 
+writting          2 
+Page fault        4 
+reading           4 
+reading           3 
+writting          3 
+reading           0 
+reading           1 
+Page fault        5 
+reading           5 
+reading           2 
+total memory frames:  8
+events in trace:      12
+total disk reads:     6
+total disk writes:    0
+page fault rate:      0.50
